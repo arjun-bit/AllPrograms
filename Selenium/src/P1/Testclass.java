@@ -62,8 +62,8 @@ public class Testclass {
 		
 	// TO get Title
 		
-		String title = driver.getTitle();
-		System.out.println(title);
+// 		String title = driver.getTitle();
+// 		System.out.println(title);
 		
 	}
 
