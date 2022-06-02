@@ -30,5 +30,7 @@ public class locaters {
 		
 		WebElement login = driver.findElement(By.xpath("//button[text()='Log In']"));
 		login.click();
+		
+		System.out.println("Just for git hub test");
     }
 }
